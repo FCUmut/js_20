@@ -83,3 +83,5 @@ async function createFolder(folderName) {
 }
 
 createFolder("folder1");
+
+// https://nodejs.org/api/fs.html
